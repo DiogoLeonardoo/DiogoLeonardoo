@@ -2,7 +2,7 @@
 - 👀 Busco conhecimento na área da programação 
 - 🌱 Estou aprendendo sobre Desenvolvimento Web (Front-End) 
 - 💞️ Estou buscando novos projetos!
-- 📫 Como me encontrar, diogoleo57@gmail.com
+- 📫 Todas as minhas redes estão logo abaixo!
 
 <div align="center">
   <a href="https://github.com/DiogoLeonardoo">
