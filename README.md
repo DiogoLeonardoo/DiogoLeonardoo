@@ -1,8 +1,6 @@
 - ## Olá, me chamo Diogo Leonardo 
-- 👀 Busco conhecimento na área da programação 
-- 🌱 Estou aprendendo sobre Desenvolvimento Web (Front-End) 
-- 💞️ Estou buscando novos projetos!
-- 📫 Todas as minhas redes estão logo abaixo!
+- 📚 Análise e Desenvolvimento de Sistemas - Instituto Federal de Sergipe 1/6
+- 💻 Acompanhe minha progressão! ( https://github.com/DiogoLeonardoo )
 
 <div align="center">
   <a href="https://github.com/DiogoLeonardoo">
