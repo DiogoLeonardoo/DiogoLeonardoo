@@ -1,5 +1,5 @@
 - ## Olá, me chamo Diogo Leonardo 
-- 📚 Análise e Desenvolvimento de Sistemas - Instituto Federal de Sergipe 1/6
+- 📚 Análise e Desenvolvimento de Sistemas - Instituto Federal de Sergipe 
 - 💻 Acompanhe minha progressão! ( https://github.com/DiogoLeonardoo )
 
 <div align="center">
