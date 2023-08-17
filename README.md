@@ -1,4 +1,4 @@
-- ## Olá, me chamo Diogo Leonardo 
+- ## Olá, Diogo Leonardo aqui! 
 - 📚 Análise e Desenvolvimento de Sistemas - Instituto Federal de Sergipe 
 - 💻 Acompanhe minha progressão! ( https://github.com/DiogoLeonardoo )
 
