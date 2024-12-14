@@ -1,6 +1,6 @@
 - ## Olá, Diogo Leonardo aqui! 
 - 📚 Análise e Desenvolvimento de Sistemas - Instituto Federal de Sergipe 
-- 💻 Desenvolvedor Java Back-End
+- 💻 Desenvolvedor Full Stack (Java Spring Boot & ReactJS)
 - 🌍 Cloud Computing - AWS 
 
 <div align="center">
